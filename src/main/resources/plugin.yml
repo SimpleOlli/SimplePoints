@@ -1,0 +1,9 @@
+main: de.simpleolli.simplepoints.SimplePoints
+name: SimplePoints
+author: SimpleOlli
+version: 1.0.0
+commands:
+  points:
+    aliases:
+      - punkte
+      - coins
